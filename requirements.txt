@@ -1,0 +1,4 @@
+gradio
+crewai
+litellm
+requests
