@@ -71,6 +71,10 @@ Output: JSON profile stored in `data/profile.json`
 Example:  
 > I’ve worked in IT operations for several years, including network monitoring, scripting with Python, and automation using Docker. My most recent role involved collaboration with cross-functional teams. I’d like to highlight my ability to solve complex technical problems and communicate with both technical and non-technical stakeholders.
 
+P.S.
+🛠️ The Profile Builder currently uses the `llama3.2` model by default to extract structured JSON data from free-form text input.
+
+
 ### 📄 Generate CV & Cover Letter
 Input:
 - A job description
@@ -81,6 +85,8 @@ Output:
 - Tailored cover letter
 - QA-reviewed summary
 
+![img.png](img.png)
+![img_1.png](img_1.png)
 ## 📁 Project Structure
 
 ```
